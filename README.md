@@ -3,7 +3,7 @@
 
 ## Year 2020-2021
 
-*Time*: TBD
+*Time*: Monday @ 4pm (Biweekly)
 
 *Locations*: Zoom (See Email Link)
 
@@ -20,8 +20,7 @@
 |------|-----------|-------|---|
 |Week 0 (09/28)|Eric Kawaguchi|Introduction|---|
 |Week 1 (10/05)|Eric Kawaguchi|Frailty modeling|---|
-|Week 2 (10/19)|???|Case Control / Case Cohort Analyses|---|
-|Week 3 (11/02)|???|Competing Risks / Semi Competing Risks|---|
-|Week 4 (11/16)|???|Joint Modeling of Longitudinal and Survival Data|---|
-|Week 5 (11/30)|???|???|---|
+|Week 2 (11/02)|Michelle Nuno|Case Control / Case Cohort Analyses|[Slides](Slides/epidesigns_1102.pptx)|
+|Week 3 (11/16)|???|Competing Risks / Semi Competing Risks|---|
+|Week 4 (11/30)|???|TBD|---|
 
