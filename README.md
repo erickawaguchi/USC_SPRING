@@ -3,6 +3,8 @@
 
 ## Fall 2024
 
+*Faculty members*: Eric Kawaguchi, Juan Pablo Lewinger, Chun Li
+
 *Time*: TBD
 
 *Locations*: Zoom (See Email Link)
@@ -11,10 +13,9 @@
   
 *Tentative Topics*:
 
-- Frailty modeling
-- Nested case-control and case-cohort analyses
-- Joint modeling of longitudinal and survival data
-- Modeling competing risks and semi-competing risks data
+- Targeted learning
+- Cumulative probability models
+- Survival analysis
 
 | Week (Date) | Presenter | Topic |Slides|
 |------|-----------|-------|---|
